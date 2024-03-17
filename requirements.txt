@@ -1,0 +1,11 @@
+langchain
+openai
+langchain_openai
+PyPDF2
+python-dotenv
+requests
+beautifulsoup4
+faiss-cpu
+random
+streamlit
+counter
